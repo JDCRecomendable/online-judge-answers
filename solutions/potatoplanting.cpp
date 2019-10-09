@@ -1,5 +1,5 @@
 /**
- * Copyright (c) 2018 Jared Daniel Carbonell Recomendable. All rights reserved.
+ * Copyright (c) 2018 Jared Daniel Carbonell Recomendable.
  */
 
 #include <bits/stdc++.h> // non-standard, use only when compiling with G++
